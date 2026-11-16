@@ -1,5 +1,5 @@
 
-#Title: AION - The Ultimate Tic Tac Toe Experience
+AION is a desktop Tic Tac Toe game that brings the familiar two-player strategy game to a graphical interface, with options to play against another person or a computer opponent.
 
 Description:
 AION brings the classic game of Tic Tac Toe to life with a modern twist! Dive into the timeless battle of X's and O's with enhanced graphics and intuitive gameplay. Challenge your friends or test your skills against the computer in this exciting game of strategy and wit.
